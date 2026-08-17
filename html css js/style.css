@@ -1,0 +1,27 @@
+
+    h1{
+        color:red;
+        background-color: aqua;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+   
+div{
+    text-align: center;
+    padding: 4px;
+    }
+    ol{
+        list-style-position: inside;
+        text-align: center;
+        padding: 0px;
+    }
+    h2{
+        font-weight: bolder;
+        text-decoration: overline;
+        text-transform: lowercase;
+        text-shadow: 2px 2px 5px red;
+    }
+    
+
